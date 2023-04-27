@@ -26,13 +26,13 @@ This is a web application built with `Next.js`, `Tailwind CSS`, and `TypeScript`
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sshone/algorithm-visualiser.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd sorting-algorithms-visualizer
+   cd algorithms-visualiser
    ```
 
 3. Install the dependencies:
