@@ -15,6 +15,10 @@ This is a web application built with `Next.js`, `Tailwind CSS`, and `TypeScript`
 - Step-by-step navigation using a slider.
 - Random array generation for testing different inputs.
 
+## Screenshots
+
+![Sorting Algorithm Visualizer](https://user-images.githubusercontent.com/127620387/235958360-47de82c1-8fa6-4a06-b3b6-fa5d5095f2dc.png)
+
 ## Getting Started
 
 ### Prerequisites
